@@ -5,6 +5,7 @@
 import { defineComponent } from 'vue';
 
 export default defineComponent({
-  name: 'App'
+  name: 'App',
+  version: '0.0.1'
 })
 </script>
